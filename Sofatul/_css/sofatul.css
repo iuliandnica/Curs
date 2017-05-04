@@ -1,0 +1,71 @@
+body {
+	margin: 0;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: large;
+	background-image: url(../_images/tapet.png);
+}
+
+div {
+	width: 768px;
+	float: left;
+	position: relative;
+	margin-bottom: 10px;
+	clear: left;
+}
+
+h1 {
+	width: 468px;
+	position: absolute;
+	background-color: #efefef;
+	text-align: center;
+	margin-top: 25px;
+	padding: 15px 0px 15px 0px;
+}
+
+p {
+	width: 324px;
+	position: absolute;
+	padding-left: 10px;
+	text-align: justify;
+}
+
+img {
+	float: right;
+	margin-right: 0px;
+	margin-bottom: 10px;
+	
+}
+#why {
+		background-color: white;
+}
+#where {
+	background-image: url(../_images/tapet1.png);
+	padding-bottom: 20px;
+}
+
+#where p {
+	float: right;
+	width: 250px;
+	position: relative;
+	margin-top: 5px;
+	padding-right: 0px;
+	margin-right: 20px;
+}
+
+.bord {
+	float: left;
+	position: relative;
+	height: 325px;
+}
+
+#how {
+	background-image: url(../_images/tapet2.png);
+	height: 400px;
+}
+
+#how p {
+	margin-top: -3px;
+}
+.sosea {
+	margin-top: 40px;
+}
